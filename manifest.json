@@ -1,13 +1,13 @@
 {
   "schema": 1,
   "packageName": "app.teacher.languages",
-  "versionCode": 24,
-  "versionName": "2.16.0",
+  "versionCode": 25,
+  "versionName": "2.16.1",
   "minSdk": 26,
   "notes": "Добавлен автономный Практикум: диагностика четырёх навыков, микроистории, конструктор фраз, письменный наставник и ветвящиеся диалоги для 132 языковых пар. Обучение и прогресс остаются на устройстве.",
   "apk": {
-    "file": "Teacher-2.16.0.apk",
-    "bytes": 2251187,
-    "sha256": "6bdb7ea4f2f92f5af68ced01485c060c8d9e62d60ff0c16676a4d76792114a78"
+    "file": "Teacher-2.16.1.apk",
+    "bytes": 2251186,
+    "sha256": "48367f76f7dde4defa2c09bf8a5c72b97daefe002e42257cefce032e1cda8eda"
   }
 }
