@@ -1,1 +1,1 @@
-cc275d489d8d890ada9ac84de92de0d756ffccdca182449fd906fd6d1e9effab  Teacher-3.229.0.apk
+ac9ca54ef1e7348a8d1c463a856b509daf77f66fdcd09b766b180b67c824cc64  Teacher-3.257.0.apk
